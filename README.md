@@ -25,6 +25,9 @@ I live in Brazil and I love studying current technologies. I am passionate about
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+![DevSantiro GitHub stats](https://github-readme-stats.vercel.app/api?username=devsantiro&show_icons=true&hide=issues,contribs&theme=radical)
+
+
 ## Another Technologies ☕
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,9 +37,7 @@ I live in Brazil and I love studying current technologies. I am passionate about
 
 
 ## About me
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevSantiro)
-
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevSantiro) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-santiago-04222a190)
 
 
